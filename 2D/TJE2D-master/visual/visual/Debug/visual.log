@@ -1,0 +1,22 @@
+﻿  gameMap.cpp
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\player.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(50,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(53,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(53,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(53,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(53,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(56,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(57,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(87,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(87,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(100,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(103,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(103,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(103,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(103,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(106,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(107,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(154,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\src\gameMap.cpp(154,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  visual.vcxproj -> \\.psf\Home\Documents\UPF\3rd course\3rd term\Electronic Games\TJE2D-master\Game.exe
