@@ -1,9 +1,0 @@
-﻿  game.cpp
-\\Mac\Home\Documents\UPF\3rd course\3rd term\Electronic Games\3D\TJE_framework_2020\src\framework.h(372,105): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-\\Mac\Home\Documents\UPF\3rd course\3rd term\Electronic Games\3D\TJE_framework_2020\src\game.cpp(79,16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-\\Mac\Home\Documents\UPF\3rd course\3rd term\Electronic Games\3D\TJE_framework_2020\src\game.cpp(112,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-\\Mac\Home\Documents\UPF\3rd course\3rd term\Electronic Games\3D\TJE_framework_2020\src\game.cpp(175,25): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
-animation.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
-LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  visualstudio.vcxproj -> \\Mac\Home\Documents\UPF\3rd course\3rd term\Electronic Games\3D\TJE_framework_2020\game_debug.exe
